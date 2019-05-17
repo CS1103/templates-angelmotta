@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/angelinux/CLionProjects/templates-angelmotta/quickSort/main.cpp
+iostream
+-
+templates.h
+/Users/angelinux/CLionProjects/templates-angelmotta/quickSort/templates.h
+
+/Users/angelinux/CLionProjects/templates-angelmotta/quickSort/templates.h
+
